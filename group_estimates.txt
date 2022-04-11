@@ -1,4 +1,4 @@
-true_group	model1_est	mode2_est	model2_est	model3_est
+true_group	model1_est	modes2_est	model3_est	model4_est
 NotA2	NotA2	NotA2	NotA2	NotA2
 NotA2	NotA2	NotA2	A2	NotA2
 NotA2	NotA2	NotA2	NotA2	NotA2
